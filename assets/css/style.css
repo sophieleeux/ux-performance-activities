@@ -61,6 +61,7 @@ p {
 
 #header {
   background: url (assests/img/header.jpg) no-repeat center top;
+  background-image: url (assests/img/header.jpg) no-repeat center top;
 }
 
 #header h1 {
