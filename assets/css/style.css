@@ -59,15 +59,19 @@ p {
 
 /* HEADER SECTION */
 
+#header {
+  background: url (assests/img/header.jpg) no-repeat center top;
+
+}
+
 #header h1 {
   font-weight: 900;
-  color: #03c9a9;
+  color: #000000;
   font-size: 90px;
 }
 
 #header h2 {
   color: #1ba39c;
-  background: url (assests/img/header.jpg) no-repeat center top;
 }
 
 /* CALL TO ACTION SECTION */
