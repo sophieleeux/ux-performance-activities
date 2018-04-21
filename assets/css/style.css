@@ -67,6 +67,7 @@ p {
 
 #header h2 {
   color: #1ba39c;
+  background: url (assests/img/header.jpg) no-repeat center top;
 }
 
 /* CALL TO ACTION SECTION */
